@@ -1,0 +1,13 @@
+{
+  "name": "exercicio-es6-alunos",
+  "version": "1.0.0",
+  "description": "Exercício ES6 - Filtro de alunos aprovados",
+  "main": "src/alunos.js",
+  "scripts": {
+    "start": "node src/alunos.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
